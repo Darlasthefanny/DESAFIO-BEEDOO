@@ -8,4 +8,5 @@ Projeto Desafio | Analista de Qualidade de Software Júnior Beedoo
 # Etapa 01
 
 Link da planilha: https://docs.google.com/spreadsheets/d/1pZVAdnPoyQWSQDTi75Gl_slRQ2kpvfvYMRYI7B6zJtY/edit?gid=0#gid=0
+
 Link do drive: https://drive.google.com/drive/folders/1MHoJFLUVIOu_F8qJLxWfV9sxwLZ_NIK5?usp=sharing
